@@ -24,6 +24,6 @@ let button1 = document.getElementById('startcount');
 button1.addEventListener('click', startShowing);
 
 
-let button2 = document.getElementById('startcount');
+let button2 = document.getElementById('stopcount');
 button2.addEventListener('click', stopShowing);
 
